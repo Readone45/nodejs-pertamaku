@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-pertamaku",
+  "version": "1.0.0",
+  "description": "menggunakan library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Readone45/nodejs-pertamaku.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ade Ridwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Readone45/nodejs-pertamaku/issues"
+  },
+  "homepage": "https://github.com/Readone45/nodejs-pertamaku#readme"
+}

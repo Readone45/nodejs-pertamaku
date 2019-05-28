@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Readone45/nodejs-pertamaku/issues"
   },
-  "homepage": "https://github.com/Readone45/nodejs-pertamaku#readme"
+  "homepage": "https://github.com/Readone45/nodejs-pertamaku#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
